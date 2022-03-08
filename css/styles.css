@@ -1,4 +1,4 @@
-@import url("https//fonts.google.apis.com/css?family=Raleway|PT+Serif:700");
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap");
 
 :root {
   --main-font-color: #1a1a1a;
@@ -142,4 +142,3 @@
   flex-direction: column;
   margin-bottom: 0.5rem;
 }
-
